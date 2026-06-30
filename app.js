@@ -44,7 +44,7 @@ document
 
         const { data, error } =
         await client
-        .from("plus")
+        .from("cape plus")
         .insert([
             {
                 username: username,
